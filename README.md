@@ -76,5 +76,5 @@
 ### Шаги по установке:
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/edu-bot.git
+   git clone https://github.com/KUMA-ORIGINAL/edubot-comtehno.git
    cd edu-bot
