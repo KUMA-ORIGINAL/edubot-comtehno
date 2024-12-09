@@ -77,4 +77,4 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/KUMA-ORIGINAL/edubot-comtehno.git
-   cd edu-bot
+   cd edubot-comtehno
